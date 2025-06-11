@@ -10,8 +10,8 @@
 
 -   👨‍💻 Neurologist, bioinformatician, Ph.D. student
 -   🧠 Researching neurodegenerative and cognitive disorders
--   🦉 Playing volleyball and snowboarding
-
+-   🦉 Playing quizzes and What? Where? When?
+-   
 ## Skills:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
