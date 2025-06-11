@@ -1,4 +1,4 @@
-## Mark Kachanovskii
+# Mark Kachanovskii
 
 [![mark.kachanovskiy\@gmail.com](https://img.shields.io/badge/mark.kachanovskiy@gmail.com--brightgreen?style=social&logo=gmail)](mailto:mark.kachanovskiy@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram--brightgreen?style=social&logo=Telegram)](https://t.me/avescaevola)
@@ -7,7 +7,7 @@
 MD, neurologist </br>
 [Bioinformatics Institute](https://bioinf.me/en), Bioinformatics for Biologists
 
-### Skills:
+## Skills:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
