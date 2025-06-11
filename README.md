@@ -1,16 +1,15 @@
-## Hi there 👋
+## Mark Kachanovskii
 
-<!--
-**avemarkus/avemarkus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![mark.kachanovskiy\@gmail.com](https://img.shields.io/badge/mark.kachanovskiy@gmail.com--brightgreen?style=social&logo=gmail)](mailto:mark.kachanovskiy@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram--brightgreen?style=social&logo=Telegram)](https://t.me/avescaevola)
 
-Here are some ideas to get you started:
+[First Moscow State Medical University (Sechenov University)](https://www.sechenov.ru/eng/),
+MD, neurologist </br>
+[Bioinformatics Institute](https://bioinf.me/en), Bioinformatics for Biologists
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills:
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&amp;logo=Overleaf&amp;logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
