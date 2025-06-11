@@ -3,9 +3,14 @@
 [![mark.kachanovskiy\@gmail.com](https://img.shields.io/badge/mark.kachanovskiy@gmail.com--brightgreen?style=social&logo=gmail)](mailto:mark.kachanovskiy@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram--brightgreen?style=social&logo=Telegram)](https://t.me/avescaevola)
 
-[First Moscow State Medical University (Sechenov University)](https://www.sechenov.ru/eng/),
-MD, neurologist </br>
+[First Moscow State Medical University (Sechenov University)](https://www.sechenov.ru/eng/), Neurology </br>
 [Bioinformatics Institute](https://bioinf.me/en), Bioinformatics for Biologists
+
+## I am:
+
+-   👨‍💻 Neurologist, bioinformatician, Ph.D. student
+-   🧠 Researching neurodegenerative and cognitive disorders
+-   🦉 Playing volleyball and snowboarding
 
 ## Skills:
 
